@@ -1,0 +1,48 @@
+README.md
+1.What is CRM? Salesforce CRM CRM stands for Customer Relationship Management. It is a system used by companies to:
+Store customer information
+Track sales and customer interactions
+Manage leads and opportunities
+Improve customer service
+Increase business growth
+Why Companies Use Salesforce?
+Salesforce￼ Companies use Salesforce because it helps them:
+
+Manage customer data All customer details are stored in one place.
+Track sales activities Sales teams can monitor leads, opportunities, and deals.
+Improve customer service Support teams can quickly solve customer issues.
+Automate business processes Tasks like emails, approvals, and reminders can be automated.
+Generate reports and dashboards Managers can analyze business performance easily.
+Work from anywhere Salesforce is cloud-based, so it can be accessed online
+3.Account An Account means a company or organization with which we do business. Example: If your company is dealing with Infosys, then Infosys is an Account.
+
+Company name
+Address
+Phone number
+Industry type
+Contact A Contact means a person working in that company. Example: If “Rahul Sharma” works in Infosys and communicates with your company, then Rahul Sharma is a Contact.
+
+Person name
+Email
+Phone number
+Job role
+Opportunity An Opportunity means a possible business deal or sale. Example: If Infosys is planning to buy software from your company, that sales deal is called an Opportunity.
+
+Deal amount
+Deal stage
+Expected closing date
+4.Real World Mapping
+
+College Admission Process Salesforce Object
+
+College/School Account
+
+Student/Parent Contact
+
+Admission Application Opportunity
+
+Example
+
+Account - vishnu institute of technology
+Contact - chandu (student applying for admission)
+Opportunity - Admission application for B.Tech ECE course
